@@ -161,7 +161,6 @@
 				B6D23164ED7CE781101E2B27 /* Pods-rnDeepLinkingDemoTests.debug.xcconfig */,
 				D8921162A1365CD5C31EAFBF /* Pods-rnDeepLinkingDemoTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -308,6 +307,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
